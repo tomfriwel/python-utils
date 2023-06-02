@@ -23,3 +23,10 @@ def getExcelData(xlsxPath, keys):
 		rows.append(rowObject)
 		
 	return rows
+
+# test
+def plus(a,b):
+	return a+b
+
+result = plus(1,2)
+print(result)
